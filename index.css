@@ -1,0 +1,45 @@
+/* h1 {
+  text-align: center;
+  color: rgb(124, 221, 124);
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.card1 {
+  width: 300px;
+  height: 300px;
+  border: 1px solid;
+  text-align: center;
+}
+.card2 {
+  width: 300px;
+  height: 300px;
+  border: 1px solid;
+  text-align: center;
+}
+.card3 {
+  width: 300px;
+  height: 300px;
+  border: 1px solid;
+  text-align: center;
+}
+button {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button.all {
+  display: block;
+  margin: 0 auto;
+  color: red;
+  margin-top: 5px;
+} */
+
+#pred {
+  cursor: pointer;
+}
+#sled {
+  cursor: pointer;
+}
